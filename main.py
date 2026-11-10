@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+role = input("Enter your job/role: ")
+print(f"\n--- Profile ---\nName: {name}")
+print(f"Age: {age}\nRole: {role}")
